@@ -30,7 +30,7 @@ print(Animes)
 
 
 #Infos
-Channel = 811708968388395009
+Channel = 811708968388395009 #Canal que sera enviado a mensagem
 Token = ""#Discord token
 
 
